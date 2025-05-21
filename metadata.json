@@ -1,11 +1,9 @@
 {
-    "name": "Wonderful Token",
-    "symbol": "ACE",
-    "description": "A secure and community-driven token on Solana.",
-    "image": "https://raw.githubusercontent.com/C-C2025/Wonderful-token/main/ace-token.png",
-    "attributes": [
-      { "trait_type": "Project", "value": "Fab Token" },
-      { "trait_type": "Twitter", "value": "https://twitter.com/fabtoken" },
-      { "trait_type": "Telegram", "value": "https://t.me/fabtoken" }
-    ],
+  "name": "Wonderful Token",
+  "symbol": "ACE",
+  "description": "A wonderful token.",
+  "image": "https://raw.githubusercontent.com/C-C2025/Wonderful-token/main/ace-token.png",
+  "socials": {
+    "twitter": "https://twitter.com/YourToken",
+    "telegram": "https://t.me/YourToken"
   }
